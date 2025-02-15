@@ -42,4 +42,12 @@ header {
     color: #555;
     line-height: 1.6;
 }
-```
+.section a {
+    display: inline-block;
+    background-color: #00796b;
+    color: #fff;
+    padding: 0.5rem 1rem;
+    text-decoration: none;
+    border-radius: 4px;
+    margin-top: 1rem;
+}
